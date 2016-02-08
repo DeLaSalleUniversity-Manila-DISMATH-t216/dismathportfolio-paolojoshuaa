@@ -35,8 +35,47 @@ dismathportfolio-paolojoshuaa created by Classroom for GitHub
 
 - note: implication equivalence
   - p→q = ¬p∨q
-        - We were given the Superman problem as homework. I read and analyzed the problem and my answer is that superman does not exist and the argument is valid. To be honest, I didn't quite know how to write the arguements in equation form.
-        - As of January 25, 2016, I am still a bit confused on writing down the propositions and arguments. But i have the idea on how to evaluate it.
-- Predicate logic was discussed. It tells us that it is concerned not only with the logic relations between sentences, but also their internal structure.
-    - What i understand about this topic is that the Internal structure of the proposition itself is important.
+  
+- Predicate logic was discussed.
+- It tells us that it is concerned not only with the logic relations between sentences, but also their internal structure.
+    - The Internal structure of the proposition itself is important.
     - This is required to understand Rules of Inference
+- Rules of Inference were taught to us.
+    - argument: a sequence of statements that end with a conclusion
+    - valid: the conclusion, must follow from the truth of the preceding statements, or premises, of the argument.
+    - fallacy: common form of incorrect reasoning leading to invalid arguments.
+
+#Week 3:
+- We talked about the 4 methods of Proof:
+    - Direct Proof
+    - Proof by Contraposition (Indirect)
+    - Proof by Contradiction (Indirect)
+    - Proof by Equivalence 
+
+- Direct Proof:
+    - First, we assume P is true.
+    - Then, we show that q is also true.
+    
+- Proof by Contraposition:
+    - First, we assume ¬q is true.
+    - Then, we show that ¬p is true.
+    
+- Proof by Contradiction:
+    - First assume ¬p is true.
+    - Then, show that ¬q is true.
+    
+- We also talked about the Vacaous and Trivial Proof.
+- For Vacuous Proof, we show that p is false, because p→q must be true when p is false.
+- For Trivial Proof, we show that q is true, it follows that p→q must also be true.
+
+#Week 4:
+- Proof by Equivalence:
+    - p→q and q→p are both true.
+
+- This week, we discussed a new lesson, Mathematical Induction.
+- Mathematical Induction has two steps:
+    - Basis Step
+    - Inductive Step
+
+- Recursive Algorithms:
+    - an algorithm is called recursive if it solves a problem by reducing it to an instance of the same problem with smaller input.
