@@ -141,7 +141,7 @@ dismathportfolio-paolojoshuaa created by Classroom for GitHub
 #Week 11:
 - No classes this week
 
-#Weel 12:
+#Week 12:
 - We started with a new lesson: The Graph Theory.
     - Graph: discrete structures consisting of vertices and edges that connect these vertices.
     - Degree: number of edges incident with the vertex of the undirected graph, except that a loop at a vertex contributes twice to the degree of that vertex.
@@ -152,3 +152,25 @@ dismathportfolio-paolojoshuaa created by Classroom for GitHub
     - Hamilton Path: passes through all nodes once.
     - Planar Graphs: graphs that can be drawn without edges having to cross.
     - Euler's Formula: r = e - v + 2
+
+#Week 13:
+- We started a new lesson called Trees.
+    - Tree: an undirected graph which has vertices connected to each other.
+    - Graph Coloring: assigned color to each vertex of the graph and there should be no two adjacent vertices have the same color.
+    - Chromatic Number: least number of colors in coloring a graph.
+
+#Additional Reading Assignments
+- Tree Traversal: Process of visiting every element in a tree only once.
+- Spanning TreesL a subgraph of a simple graph G that is a tree containing every vertex of G.
+- Relations and Properties:
+    - Reflexive Property: every element of A is connected to itself. 
+    - Symmetric Property: a is related to b implies b is related to a.
+    - Transitive Property: contains the pairs (a,b), (b,c) and (a,c)
+- N-ary Relations and Applications: There are n elements involved in the relationship.
+- Representing Relations: Using Zero-One matrices using digraphs.
+- Closures of Relations:
+    - Reflexive Closure: addition of pairs of the form (a,a)
+    - Symmetric Closure: addition of pairs of the form (b,a)
+    - Transitive Closure: equals the connectivity relation
+- Equivalence Relations: A relation is considered an equivalnce relation if it is Reflexive, Symmetric, and Transitive.
+- Partial Orderings: A relation is called a partial ordering if it is anti-symmetric, transitive and reflexive.
